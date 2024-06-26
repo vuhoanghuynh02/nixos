@@ -1,0 +1,10 @@
+ignore/
+.git.backup
+oisd_big_domainswild.txt
+oisd_nsfw_domainswild.txt
+
+.git
+.tmp
+.sync-exclude.lst
+\#*
+.\#
