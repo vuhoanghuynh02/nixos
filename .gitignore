@@ -1,0 +1,5 @@
+flake.lock
+hardware-configuration.nix
+situation-dependence.nix
+
+config/hosts/sophie/packages.nix
