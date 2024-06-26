@@ -1,0 +1,10 @@
+.git.backup
+home.nix
+configuration.nix
+hardware-configuration.nix
+
+.git
+.tmp
+.sync-exclude.lst
+\#*
+.\#
